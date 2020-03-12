@@ -21,6 +21,10 @@
 * lina.dillmann@wheregroup.com
 * [![@LinaDillmann on twitter](img/twitter.png)](https://twitter.com/LinaDillmann) [@LinaDillmann](https://twitter.com/LinaDillmann)
 
+## Leoni Möske
+
+* WhereGroup GmbH
+* leoni.moeske@wheregroup.com
 
 ![](img/WhereGroup.png )
 
