@@ -220,7 +220,7 @@ DROP TABLE pois;
 * Manipulation von Daten - Erzeugen, Löschen, Verändern von Daten
 
 ```sql
-INSERT INTO pois (name, year, info, geom) VALUES 
+INSERT INTO pois (name, year, info) VALUES 
 (
 'Kölner Dom',
 1248,
